@@ -12,7 +12,8 @@
     "@babel/runtime": "^7.27.1",
     "next": "15.4.0-canary.47",
     "react": "19.1.0",
-    "react-dom": "19.1.0"
+    "react-dom": "19.1.0",
+    "sass": "^1.89.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
